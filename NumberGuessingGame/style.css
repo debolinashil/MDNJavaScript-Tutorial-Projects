@@ -1,0 +1,31 @@
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+/*.game {
+	width: 50%;
+	margin: auto;
+	text-align: left;
+	padding: 100px;
+}
+*/
+p {
+	width: 500px;
+	display: inline-block;
+}
+
+.form input[type="number"] {
+    width: 200px;
+}
+
+.resultParas {
+
+}
+
+.lastResult {
+	color: white;
+	padding: 5px;
+}
